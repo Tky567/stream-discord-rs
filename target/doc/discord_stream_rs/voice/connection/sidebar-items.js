@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ConnectionError","VoiceEvent"],"struct":["ConnectionStatus","VoiceConnection","WebRtcParams"]};

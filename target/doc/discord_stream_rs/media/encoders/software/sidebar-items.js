@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["X264Tune","X265Tune","X26xPreset"],"struct":["EncoderInfo","SoftwareEncoders","X264Settings","X265Settings"]};

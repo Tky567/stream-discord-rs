@@ -1,0 +1,35 @@
+/// Discord main gateway OpCodes used by `Streamer`.
+/// Ported from `GatewayOpCodes.ts`.
+#[repr(u8)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub enum GatewayOpCode {
+    Dispatch = 0,
+    Heartbeat = 1,
+    Identify = 2,
+    PresenceUpdate = 3,
+    VoiceStateUpdate = 4,
+    VoiceServerPing = 5,
+    Resume = 6,
+    Reconnect = 7,
+    RequestGuildMembers = 8,
+    InvalidSession = 9,
+    Hello = 10,
+    HeartbeatAck = 11,
+    CallConnect = 13,
+    GuildSubscriptions = 14,
+    LobbyConnect = 15,
+    LobbyDisconnect = 16,
+    LobbyVoiceStatesUpdate = 17,
+    StreamCreate = 18,
+    StreamDelete = 19,
+    StreamWatch = 20,
+    StreamPing = 21,
+    StreamSetPaused = 22,
+    RequestGuildApplicationCommands = 24,
+    EmbeddedActivityLaunch = 25,
+    EmbeddedActivityClose = 26,
+    EmbeddedActivityUpdate = 27,
+    RequestForumUnreads = 28,
+    RemoteCommand = 29,
+    GetDeletedEntityIdsNotMatchingHash = 30,
+}

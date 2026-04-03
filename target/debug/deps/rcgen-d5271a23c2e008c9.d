@@ -1,0 +1,14 @@
+/home/tiki/steam-discord-rs/target/debug/deps/rcgen-d5271a23c2e008c9.d: /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/lib.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/certificate.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/crl.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/csr.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/error.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/key_pair.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/oid.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/ring_like.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/sign_algo.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/string_types.rs
+
+/home/tiki/steam-discord-rs/target/debug/deps/librcgen-d5271a23c2e008c9.rmeta: /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/lib.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/certificate.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/crl.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/csr.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/error.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/key_pair.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/oid.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/ring_like.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/sign_algo.rs /home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/string_types.rs
+
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/lib.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/certificate.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/crl.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/csr.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/error.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/key_pair.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/oid.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/ring_like.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/sign_algo.rs:
+/home/tiki/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rcgen-0.13.2/src/string_types.rs:
