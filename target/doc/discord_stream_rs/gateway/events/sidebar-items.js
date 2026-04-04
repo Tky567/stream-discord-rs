@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["GatewayEvent"],"struct":["StreamCreate","StreamServerUpdate","VoiceServerUpdate","VoiceStateUpdate"]};

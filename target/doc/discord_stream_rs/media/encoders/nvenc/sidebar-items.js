@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["NvencPreset"],"struct":["NvencEncoders","NvencSettings"]};

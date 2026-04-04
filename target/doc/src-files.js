@@ -1,2 +1,0 @@
-createSrcSidebar('[["discord_stream_rs",["",[["gateway",[],["events.rs","mod.rs","opcodes.rs","streamer.rs"]],["media",[["encoders",[],["mod.rs","nvenc.rs","software.rs","vaapi.rs"]]],["audio_stream.rs","base_stream.rs","codec_id.rs","decoder.rs","demuxer.rs","mod.rs","video_stream.rs"]],["processing",[],["annexb.rs","annexb_rw.rs","mod.rs","sps_vui.rs"]],["voice",[],["codec_payload.rs","connection.rs","mod.rs","opcodes.rs","stream_connection.rs","types.rs","webrtc.rs"]]],["dave.rs","lib.rs","utils.rs"]]]]');
-//{"start":19,"fragment_lengths":[491]}

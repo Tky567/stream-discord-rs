@@ -1,9 +1,20 @@
 [package]
 name = "discord-stream-rs"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2024"
+authors = ["Tky567"]
 description = "Discord voice/video streaming library for selfbots, ported from @dank074/discord-video-stream"
 license = "MIT"
+repository = "https://github.com/Tky567/stream-discord-rs"
+documentation = "https://docs.rs/discord-stream-rs"
+homepage = "https://github.com/Tky567/stream-discord-rs"
+exclude = [
+    "target/",
+    ".git/",
+    ".gitignore",
+    ".vscode/",
+    "Cargo.lock",
+]
 
 [dependencies]
 # DAVE / E2EE

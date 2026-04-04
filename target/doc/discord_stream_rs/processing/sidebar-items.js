@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["annexb","annexb_rw","sps_vui"]};

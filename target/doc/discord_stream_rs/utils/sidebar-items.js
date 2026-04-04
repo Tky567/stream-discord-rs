@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["ENCRYPTION_AES256","ENCRYPTION_XCHACHA20","MAX_INT16","MAX_INT32","STREAMS_SIMULCAST_QUALITY","STREAMS_SIMULCAST_RID"],"enum":["StreamKeyError","StreamType","VideoCodec"],"fn":["generate_stream_key","normalize_video_codec","parse_stream_key"],"struct":["StreamKey","UnknownCodecError"]};
