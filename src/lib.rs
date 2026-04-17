@@ -15,6 +15,7 @@
 
 pub mod dave;
 pub mod gateway;
+#[cfg(feature = "media")]
 pub mod media;
 pub mod processing;
 pub mod utils;
