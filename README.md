@@ -321,9 +321,3 @@ discord-stream-rs
 - Original TypeScript library: [`@dank074/discord-video-stream`](https://github.com/dank074/discord-video-stream)
 - DAVE E2EE Rust crate: [`davey`](https://crates.io/crates/davey) by [@snazzah](https://github.com/snazzah)
 - WebRTC: [`webrtc-rs`](https://github.com/webrtc-rs/webrtc)
-
----
-
-## License
-
-MIT
